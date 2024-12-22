@@ -1,0 +1,29 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+release/
+debug/
+
+# Binary outputs
+*.exe
+*.pdb
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Editor specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+enkel
+enkel.exe
